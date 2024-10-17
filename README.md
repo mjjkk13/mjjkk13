@@ -11,11 +11,11 @@
 
 ## 📈 Estadísticas de GitHub
 
-!(https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+![mjjkk13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
 
 ## 📊 Lenguajes más usados
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
 
 ## 🎯 Proyectos Destacados
 
