@@ -1,13 +1,22 @@
 # 💻 Mariana Jiménez Villa
 
-[Descripción breve sobre ti y lo que haces. Incluye tus intereses o habilidades principales.]
+Aprendiz en formación del programa Tecnólogo en análisis y desarrollo de
+software del SENA. Con conocimientos sólidos en programación y
+desarrollo web, poseo experiencia en lenguajes de programación como php y javascript.
+
+Además, dispongo una certificación en Técnico en programación de software.
+Estoy interesada en el desarrollo de software y la resolución de problemas
+complejos mediante la programación. Me apasiona aprender nuevas
+tecnologías y lenguajes de programación. Busco oportunidades para
+aplicar y expandir mis habilidades en un entorno práctico.
+
 
 ## 🚀 Habilidades
 
-- Lenguajes de Programación: [Enumera tus lenguajes, como Python, JavaScript, C#, etc.]
-- Frameworks y Librerías: [Ejemplo: React, Django, Bootstrap, etc.]
-- Bases de Datos: [Ejemplo: MySQL, PostgreSQL, MongoDB, etc.]
-- Herramientas: [Ejemplo: Git, Docker, VSCode, etc.]
+- Lenguajes de Programación: PHP, JavaScript
+- Frameworks y Librerías: Bootstrap, vite
+- Bases de Datos: MySQL
+- Herramientas: Git, VSCode
 
 ## 📈 Estadísticas de GitHub
 
