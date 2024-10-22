@@ -41,8 +41,8 @@ Descripción breve del proyecto. ¿Qué hace? ¿Por qué es interesante?
 
 ## 🌱 Actualmente aprendiendo
 
-- [Tecnología o Lenguaje que estás aprendiendo]
-- [Tecnología o Lenguaje que estás aprendiendo]
+- python
+- c#
 
 ## 📫 Contacto
 
