@@ -48,7 +48,7 @@ Descripción breve del proyecto. ¿Qué hace? ¿Por qué es interesante?
 
 - LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tuusuario)
 - Twitter: [Tu Twitter](https://twitter.com/tuusuario)
-- Email: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- Email: [tucorreo@ejemplo.com](mailto:marianajimenezv2006@gmail.com)
 
 ## 📜 Licencia
 
