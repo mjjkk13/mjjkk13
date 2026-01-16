@@ -62,11 +62,11 @@ Busco mi primera oportunidad profesional en áreas de **desarrollo de software**
 
 ### Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark&cache_seconds=86400)
 
 ### Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
@@ -157,11 +157,11 @@ I am seeking my first professional opportunity in **software development**, **da
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark&cache_seconds=86400)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
