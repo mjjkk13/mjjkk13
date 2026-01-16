@@ -62,7 +62,7 @@ Busco mi primera oportunidad profesional en áreas de **desarrollo de software**
 
 ### Estadísticas de GitHub
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark" />
+![Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=transparent&hide_border=true)
 
 ### Lenguajes más utilizados
 
@@ -157,7 +157,7 @@ I am seeking my first professional opportunity in **software development**, **da
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark" />
+![Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=transparent&hide_border=true)
 
 ### Most Used Languages
 
