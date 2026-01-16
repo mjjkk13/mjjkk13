@@ -1,54 +1,201 @@
-# 💻 Mariana Jiménez Villa
+# Mariana Jiménez Villa
 
-Aprendiz en formación del programa Tecnólogo en análisis y desarrollo de
-software del SENA. Con conocimientos sólidos en programación y
-desarrollo web, poseo experiencia en lenguajes de programación como php y javascript.
+Junior Full Stack Developer | Data Analytics Focus | Software Development Student (SENA)
 
-Además, dispongo una certificación en Técnico en programación de software.
-Estoy interesada en el desarrollo de software y la resolución de problemas
-complejos mediante la programación. Me apasiona aprender nuevas
-tecnologías y lenguajes de programación. Busco oportunidades para
-aplicar y expandir mis habilidades en un entorno práctico.
+---
 
+## Español
 
-## 🚀 Habilidades
+### Perfil profesional
 
-- Lenguajes de Programación: PHP, JavaScript
-- Frameworks y Librerías: Bootstrap, vite
-- Bases de Datos: MySQL
-- Herramientas: Git, VSCode
+Desarrolladora **Full Stack junior** con enfoque en **analítica de datos**, aprendiz del programa **Tecnólogo en Análisis y Desarrollo de Software** del SENA y **Técnica en Programación de Software**.
 
-## 📈 Estadísticas de GitHub
+Cuento con bases sólidas en desarrollo web con **PHP** y **JavaScript**, manejo de bases de datos **MySQL** y **SQL Server**, y experiencia aplicando buenas prácticas de desarrollo como arquitectura **MVC**, principios **SOLID** y metodologías ágiles.
 
-![mjjkk13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+He trabajado en proyectos académicos y personales orientados a la recolección, procesamiento y análisis básico de datos.
 
-## 📊 Lenguajes más usados
+Busco mi primera oportunidad profesional en áreas de **desarrollo de software**, **analítica de datos** o **business intelligence**, donde pueda aportar valor técnico y continuar fortaleciendo mis habilidades.
+
+---
+
+### Habilidades técnicas
+
+#### Lenguajes de programación
+- PHP  
+- JavaScript (Node.js)
+- Python (en aprendizaje)  
+- C# (en aprendizaje)
+- TypeScript (en aprendizaje)
+
+#### Desarrollo web
+- HTML5, CSS3  
+- TailwindCSS  
+- Vite  
+
+#### Bases de datos
+- MySQL  
+- SQL Server  
+- Modelado relacional de datos  
+- Normalización  
+- Consultas SQL avanzadas  
+- Procedimientos almacenados  
+- Vistas y triggers (básico)
+
+#### Analítica de datos (nivel inicial)
+- Limpieza y organización de datos  
+- Consultas SQL para análisis  
+- Fundamentos de análisis exploratorio  
+- Uso básico de Python para análisis de datos
+
+#### Herramientas
+- Git  
+- GitHub  
+- Visual Studio Code  
+
+#### Metodologías y arquitectura
+- Metodologías ágiles: Scrum, Kanban  
+- Arquitectura MVC (Modelo–Vista–Controlador)  
+- Principios SOLID  
+- Desarrollo orientado a la nube (nivel básico)
+
+---
+
+### Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+
+### Lenguajes más utilizados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
 
-## 🎯 Proyectos Destacados
+---
 
-### [Nombre del Proyecto](link-al-proyecto)
-Descripción breve del proyecto. ¿Qué hace? ¿Por qué es interesante?
+### Proyectos destacados
 
-### [Nombre del Proyecto](link-al-proyecto)
-Descripción breve del proyecto. ¿Qué hace? ¿Por qué es interesante?
+#### Proyecto 1 – Sistema web con base de datos
 
-## 🛠️ Herramientas y Tecnologías
+Repositorio: https://github.com/mjjkk13
 
-![Herramientas](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/Version-Control-GitHub-blue?style=flat-square&logo=github)
+Aplicación web para gestión de información con autenticación de usuarios y almacenamiento en base de datos.
 
-## 🌱 Actualmente aprendiendo
+Tecnologías: PHP, MySQL, TailwindCSS, Vite React
 
-- python
-- c#
+---
 
-## 📫 Contacto
+#### Proyecto 2 – Proyecto de análisis de datos (en desarrollo)
 
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tuusuario)
-- Email: [marianajimenezv2006@gmail.com](mailto:marianajimenezv2006@gmail.com)
+Repositorio: https://github.com/mjjkk13
 
-## 📜 Licencia
+Análisis básico de datos utilizando consultas SQL y scripts en Python para limpieza y exploración de información.
 
-Este perfil está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+Tecnologías: Python, SQL, MySQL
+
+---
+
+### Contacto
+
+- LinkedIn: www.linkedin.com/in/mariana-jiménez-villa-114a63253 
+- Correo: marianajimenezv2006@gmail.com  
+
+---
+
+## English
+
+### Professional Profile
+
+Junior **Full Stack Developer** with a focus on **Data Analytics**, currently studying **Software Analysis and Development Technology** at SENA and certified as a **Software Programming Technician**.
+
+I have solid foundations in web development using **PHP** and **JavaScript**, experience working with **MySQL** and **SQL Server** databases, and applying best practices such as **MVC architecture**, **SOLID principles**, and agile methodologies.
+
+I have worked on academic and personal projects related to data collection, processing, and basic data analysis.
+
+I am seeking my first professional opportunity in **software development**, **data analytics**, or **business intelligence**, where I can contribute technically and continue growing professionally.
+
+---
+
+### Technical Skills
+
+#### Programming Languages
+- PHP  
+- JavaScript (Node.js)
+- Python (learning)  
+- C# (learning)
+- TypeScript (learning)
+
+#### Web Development
+- HTML5, CSS3  
+- TailwindCSS 
+- Vite  
+
+#### Databases
+- MySQL  
+- SQL Server  
+- Relational data modeling  
+- Database normalization  
+- Advanced SQL queries  
+- Stored procedures  
+- Views and triggers (basic)
+
+#### Data Analytics (junior level)
+- Data cleaning and organization  
+- SQL-based analysis  
+- Exploratory data analysis fundamentals  
+- Basic Python for data analysis
+
+#### Tools
+- Git  
+- GitHub  
+- Visual Studio Code  
+
+#### Methodologies and Architecture
+- Agile methodologies: Scrum, Kanban  
+- MVC Architecture (Model–View–Controller)  
+- SOLID principles  
+- Cloud-oriented development (basic level)
+
+---
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjjkk13&show_icons=true&theme=dark)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjjkk13&layout=compact&theme=dark)
+
+---
+
+### Featured Projects
+
+#### Project 1 – Web system with database
+
+Repository: https://github.com/mjjkk13
+
+Web application for information management with user authentication and database storage.
+
+Technologies: PHP, MySQL, TailwindCSS, Vite React
+
+---
+
+#### Project 2 – Data analysis project (in progress)
+
+Repository: https://github.com/mjjkk13
+
+Basic data analysis using SQL queries and Python scripts for data cleaning and exploration.
+
+Technologies: Python, SQL, MySQL
+
+---
+
+### Contact
+
+- LinkedIn: www.linkedin.com/in/mariana-jiménez-villa-114a63253
+- Email: marianajimenezv2006@gmail.com  
+
+---
+
+## License
+
+This repository is distributed under the MIT License.
+
+https://opensource.org/licenses/MIT
