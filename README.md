@@ -1,107 +1,110 @@
-# Mariana Jiménez Villa
+<h1 align="center">Hola / Hi, I'm Mariana Jiménez 👋</h1>
 
-Junior Full Stack Developer | Data Analytics Focus | Software Development Student (SENA)
+<p align="center">
+  <strong>Junior Full Stack Developer · Data Analytics</strong><br>
+  SENA – Tecnología en Análisis y Desarrollo de Software
+</p>
+
+<p align="center">
+  <a href="#español">🇨🇴 Español</a> · <a href="#english">🇺🇸 English</a>
+</p>
 
 ---
 
-## Español
+## 🇨🇴 Español <a name="español"></a>
 
-### Perfil profesional
+### Sobre mí
 
 Desarrolladora **Full Stack junior** con enfoque en **analítica de datos**, aprendiz del programa **Tecnólogo en Análisis y Desarrollo de Software** del SENA y **Técnica en Programación de Software**.
 
-Cuento con bases sólidas en desarrollo web con **PHP** y **JavaScript**, manejo de bases de datos **MySQL** y **SQL Server**, y experiencia aplicando buenas prácticas de desarrollo como arquitectura **MVC**, principios **SOLID** y metodologías ágiles.
+Tengo bases sólidas en desarrollo web con **PHP** y **JavaScript**, manejo de bases de datos **MySQL** y **SQL Server**, y experiencia aplicando buenas prácticas como arquitectura **MVC**, principios **SOLID** y metodologías ágiles.
 
 He trabajado en proyectos académicos y personales orientados a la recolección, procesamiento y análisis básico de datos.
 
-Busco mi primera oportunidad profesional en áreas de **desarrollo de software**, **analítica de datos** o **business intelligence**, donde pueda aportar valor técnico y continuar fortaleciendo mis habilidades.
+Busco mi primera oportunidad profesional en **desarrollo de software**, **analítica de datos** o **business intelligence**, donde pueda aportar valor técnico y continuar creciendo.
 
 ---
 
-### Habilidades técnicas
+### 🛠️ Habilidades técnicas
 
-#### Lenguajes de programación
-- PHP  
-- JavaScript (Node.js)
-- Python (en aprendizaje)  
-- C# (en aprendizaje)
-- TypeScript (en aprendizaje)
+**Lenguajes de programación**
 
-#### Desarrollo web
-- HTML5, CSS3  
-- TailwindCSS  
-- Vite  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-#### Bases de datos
-- MySQL  
-- SQL Server  
-- Modelado relacional de datos  
-- Normalización  
-- Consultas SQL avanzadas  
-- Procedimientos almacenados  
-- Vistas y triggers (básico)
+**Desarrollo web**
 
-#### Analítica de datos (nivel inicial)
-- Limpieza y organización de datos  
-- Consultas SQL para análisis  
-- Fundamentos de análisis exploratorio  
-- Uso básico de Python para análisis de datos
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### Herramientas
-- Git  
-- GitHub  
-- Visual Studio Code  
+**Bases de datos**
 
-#### Metodologías y arquitectura
-- Metodologías ágiles: Scrum, Kanban  
-- Arquitectura MVC (Modelo–Vista–Controlador)  
-- Principios SOLID  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Metodologías y arquitectura**
+
+- Metodologías ágiles: Scrum, Kanban
+- Arquitectura MVC (Modelo–Vista–Controlador)
+- Principios SOLID
 - Desarrollo orientado a la nube (nivel básico)
 
 ---
 
-### Estadísticas de GitHub
+### 🚀 Proyectos destacados
 
-![GitHub Stats](https://github-readme-stats-kappa-tawny-40.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark)
-
-### Lenguajes más utilizados
-
-![Top Languages](https://github-readme-stats-kappa-tawny-40.vercel.app/api/top-langs?username=mjjkk13&layout=compact&theme=github_dark)
-
----
-
-### Proyectos destacados
-
-#### Proyecto 1 – Sistema web con base de datos
-
-Repositorio: https://github.com/mjjkk13
+#### 🌐 Sistema web con base de datos
 
 Aplicación web para gestión de información con autenticación de usuarios y almacenamiento en base de datos.
 
-Tecnologías: PHP, MySQL, TailwindCSS, Vite React
+**Tecnologías:** PHP · MySQL · TailwindCSS · Vite React
+
+🔗 [Ver repositorio](https://github.com/mjjkk13)
 
 ---
 
-#### Proyecto 2 – Proyecto de análisis de datos (en desarrollo)
-
-Repositorio: https://github.com/mjjkk13
+#### 📊 Proyecto de análisis de datos *(en desarrollo)*
 
 Análisis básico de datos utilizando consultas SQL y scripts en Python para limpieza y exploración de información.
 
-Tecnologías: Python, SQL, MySQL
+**Tecnologías:** Python · SQL · MySQL
+
+🔗 [Ver repositorio](https://github.com/mjjkk13)
 
 ---
 
-### Contacto
+### 📈 Estadísticas de GitHub
 
-- LinkedIn: www.linkedin.com/in/mariana-jiménez-villa-114a63253 
-- Correo: marianajimenezv2006@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats-kappa-tawny-40.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-kappa-tawny-40.vercel.app/api/top-langs?username=mjjkk13&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## English
+### 📫 Contacto
 
-### Professional Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-jiménez-villa-114a63253)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marianajimenezv2006@gmail.com)
+
+---
+---
+
+## 🇺🇸 English <a name="english"></a>
+
+### About me
 
 Junior **Full Stack Developer** with a focus on **Data Analytics**, currently studying **Software Analysis and Development Technology** at SENA and certified as a **Software Programming Technician**.
 
@@ -109,93 +112,80 @@ I have solid foundations in web development using **PHP** and **JavaScript**, ex
 
 I have worked on academic and personal projects related to data collection, processing, and basic data analysis.
 
-I am seeking my first professional opportunity in **software development**, **data analytics**, or **business intelligence**, where I can contribute technically and continue growing professionally.
+I am looking for my first professional opportunity in **software development**, **data analytics**, or **business intelligence**, where I can contribute technically and continue growing professionally.
 
 ---
 
-### Technical Skills
+### 🛠️ Technical skills
 
-#### Programming Languages
-- PHP  
-- JavaScript (Node.js)
-- Python (learning)  
-- C# (learning)
-- TypeScript (learning)
+**Programming languages**
 
-#### Web Development
-- HTML5, CSS3  
-- TailwindCSS 
-- Vite  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-#### Databases
-- MySQL  
-- SQL Server  
-- Relational data modeling  
-- Database normalization  
-- Advanced SQL queries  
-- Stored procedures  
-- Views and triggers (basic)
+**Web development**
 
-#### Data Analytics (junior level)
-- Data cleaning and organization  
-- SQL-based analysis  
-- Exploratory data analysis fundamentals  
-- Basic Python for data analysis
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### Tools
-- Git  
-- GitHub  
-- Visual Studio Code  
+**Databases**
 
-#### Methodologies and Architecture
-- Agile methodologies: Scrum, Kanban  
-- MVC Architecture (Model–View–Controller)  
-- SOLID principles  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Methodologies and architecture**
+
+- Agile methodologies: Scrum, Kanban
+- MVC Architecture (Model–View–Controller)
+- SOLID principles
 - Cloud-oriented development (basic level)
 
 ---
 
-### GitHub Statistics
+### 🚀 Featured projects
 
-![GitHub Stats](https://github-readme-stats-kappa-tawny-40.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats-kappa-tawny-40.vercel.app/api/top-langs?username=mjjkk13&layout=compact&theme=github_dark)
-
----
-
-### Featured Projects
-
-#### Project 1 – Web system with database
-
-Repository: https://github.com/mjjkk13
+#### 🌐 Web system with database
 
 Web application for information management with user authentication and database storage.
 
-Technologies: PHP, MySQL, TailwindCSS, Vite React
+**Stack:** PHP · MySQL · TailwindCSS · Vite React
+
+🔗 [View repository](https://github.com/mjjkk13)
 
 ---
 
-#### Project 2 – Data analysis project (in progress)
-
-Repository: https://github.com/mjjkk13
+#### 📊 Data analysis project *(in progress)*
 
 Basic data analysis using SQL queries and Python scripts for data cleaning and exploration.
 
-Technologies: Python, SQL, MySQL
+**Stack:** Python · SQL · MySQL
+
+🔗 [View repository](https://github.com/mjjkk13)
 
 ---
 
-### Contact
+### 📈 GitHub stats
 
-- LinkedIn: www.linkedin.com/in/mariana-jiménez-villa-114a63253
-- Email: marianajimenezv2006@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats-kappa-tawny-40.vercel.app/api?username=mjjkk13&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-kappa-tawny-40.vercel.app/api/top-langs?username=mjjkk13&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## License
+### 📫 Contact
 
-This repository is distributed under the MIT License.
-
-https://opensource.org/licenses/MIT
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-jiménez-villa-114a63253)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marianajimenezv2006@gmail.com)
