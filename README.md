@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Junior Full Stack Developer · Data Analytics</strong><br>
-  SENA – Tecnología en Análisis y Desarrollo de Software
+  SENA – Tecnóloga en Análisis y Desarrollo de Software
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### Sobre mí
 
-Desarrolladora **Full Stack junior** con enfoque en **analítica de datos**, aprendiz del programa **Tecnólogo en Análisis y Desarrollo de Software** del SENA y **Técnica en Programación de Software**.
+Desarrolladora **Full Stack junior** con enfoque en **analítica de datos**, graduada del programa **Tecnólogo en Análisis y Desarrollo de Software** del SENA y **Técnica en Programación de Software**.
 
 Tengo bases sólidas en desarrollo web con **PHP** y **JavaScript**, manejo de bases de datos **MySQL** y **SQL Server**, y experiencia aplicando buenas prácticas como arquitectura **MVC**, principios **SOLID** y metodologías ágiles.
 
@@ -106,7 +106,7 @@ Análisis básico de datos utilizando consultas SQL y scripts en Python para lim
 
 ### About me
 
-Junior **Full Stack Developer** with a focus on **Data Analytics**, currently studying **Software Analysis and Development Technology** at SENA and certified as a **Software Programming Technician**.
+Junior **Full Stack Developer** with a focus on **Data Analytics**, graduated from the **Software Analysis and Development Technology** program at SENA, and certified as a **Software Programming Technician**.
 
 I have solid foundations in web development using **PHP** and **JavaScript**, experience working with **MySQL** and **SQL Server** databases, and applying best practices such as **MVC architecture**, **SOLID principles**, and agile methodologies.
 
